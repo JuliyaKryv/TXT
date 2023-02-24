@@ -1,1 +1,20 @@
-
+ID: 0018
+Project: Capital.com	
+Date Submitted: 13.02.2023		
+Unit: Main Page	
+Reporter:	@Julia_Kryv				
+Assigned to:	PM Capital.com				
+Priority:	Normal	
+Severity:	Minor		
+Satus:	New	
+Resolution:	Open		
+Platform:	Chrome 110.0.5481.77	OS	MacOS	OS	Monterey 12.1
+Summary:	The banner title becomes unreadable after narrowing the screen size				
+Description:	The banner title overlaps the banner image and becomes unreadable after narrowing the browser window to 1199 pixels wide.				
+Preconditions: The website capital.com is opened on the main page
+Steps to reproduce:	Narrow the browser window to 1199 pixels wide				
+Actual result:	The title on the top banner on the current page is displayed in a visually unreadable way				
+Expected result:	The title on the top banner on the current page is displayed in a visually readable way				
+Additional Information:	The same bug is reproduced in all available languages except English				
+Attached Files:	video: https://www.vidline.com/share/V0R6HG2RLK/e1f471af0f744ab9dc482d18b3a8c6b8
+pic: https://prnt.sc/6F7ue7z-X0G5 		
