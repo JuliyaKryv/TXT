@@ -1,0 +1,27 @@
+Information about skills:
+1. The basic theory of testing
+2. Client-server architecture
+3. HTTP Methods of requests to the server / HTTP server response codes.
+4. Structures of HTTP requests and responses.
+5. JSON, XML. Their structure.
+6. API testing through Postman (JS, API autotests).
+7. Removing and reading logs from an external server.
+8. Sniffing HTTP web traffic through Charles and Fiddler.
+9. Dev Tools of web browsers (Google Chrome, FireFox).
+10. VPN. 
+11. Mobile testing.
+12. Feature of iOS, Android, guidelines.
+13. Compilation of iOS applications on XCode. 
+14. Compilation of Android applications on Android Studio.
+15. ADB (Android device management).
+16. Proxy and VPN settings on iOS and Android.
+17. Interception (sniffing) of mobile traffic through Charles and Fiddler on iOS and Android.
+18. Linux command line (terminal) (copying, creating, viewing, and moving files on servers without a graphical interface)
+19. Basics of bash-scripting, automation of routine tasks on the server.
+20. Access to remote servers.
+21. Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
+22. Postgres database (installation, configuration, and use).
+23. Non-relational database Redis (installation, configuration, and use).
+24. Load testing in Jmeter.
+25. Scrum development methodology.
+26. Python. (Learning the basics. Creating a client-server program)
