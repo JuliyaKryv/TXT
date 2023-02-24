@@ -6,7 +6,7 @@ Reporter:	@Julia_Kryv
 Assigned to:	PM Capital.com				
 Priority:	Normal	
 Severity:	Minor		
-Satus:	New	
+Status:	New	
 Resolution:	Open		
 Platform:	Chrome 110.0.5481.77	OS	MacOS	OS	Monterey 12.1
 Summary:	The banner title becomes unreadable after narrowing the screen size				
